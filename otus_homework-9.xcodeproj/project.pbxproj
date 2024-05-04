@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E20563E92BE6044800F8FCDA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20563E82BE6044800F8FCDA /* User.swift */; };
 		E22D24BF2BE5EE7500147709 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22D24BE2BE5EE7500147709 /* AppDelegate.swift */; };
 		E22D24C12BE5EE7500147709 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22D24C02BE5EE7500147709 /* SceneDelegate.swift */; };
 		E22D24C32BE5EE7500147709 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22D24C22BE5EE7500147709 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E20563E82BE6044800F8FCDA /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		E22D24BB2BE5EE7500147709 /* otus_homework-9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "otus_homework-9.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E22D24BE2BE5EE7500147709 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E22D24C02BE5EE7500147709 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E22D24BE2BE5EE7500147709 /* AppDelegate.swift */,
 				E22D24C02BE5EE7500147709 /* SceneDelegate.swift */,
 				E22D24C22BE5EE7500147709 /* ViewController.swift */,
+				E20563E82BE6044800F8FCDA /* User.swift */,
 				E22D24C42BE5EE7500147709 /* Main.storyboard */,
 				E22D24C72BE5EE7600147709 /* Assets.xcassets */,
 				E22D24C92BE5EE7600147709 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E20563E92BE6044800F8FCDA /* User.swift in Sources */,
 				E22D24C32BE5EE7500147709 /* ViewController.swift in Sources */,
 				E22D24BF2BE5EE7500147709 /* AppDelegate.swift in Sources */,
 				E22D24C12BE5EE7500147709 /* SceneDelegate.swift in Sources */,
